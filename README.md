@@ -1,13 +1,17 @@
 # Portfolio
 ポーロフォリオ用に過去携わった案件内容、および趣味制作物を配置する場所
 
+趣味制作物<br>
+
+Blenderシェーディングによる金属錆表現マテリアル<br>
+<img width="1468" height="914" alt="錆Shader" src="https://github.com/user-attachments/assets/63bd8562-8b79-4751-98aa-6366d684ae66" />
 
 
 携わった案件(VRChat,公開URL)  ※URLアクセスにはVRChatのアカウントが必要です<br>
 
 Kyocera Laser World<br>
 展示製品5点,Shader改造（ライトシャフトが壁を貫通しなくする）
-保守（Cyantriggerのサポート終了に伴うUdonSharpへの切り替え、容量超過に対するテクスチャ圧縮、TerrainのMesh化）
+保守（Cyantriggerのサポート終了に伴うUdonSharpへの切り替え、容量超過に対するテクスチャ圧縮、TerrainのMesh化）<br>
 https://vrchat.com/home/world/wrld_11bf825d-8764-434e-9a79-f283be8c8921/info
 
 Kyocera MobileWorld<br>
@@ -47,9 +51,9 @@ TorqueWorld10th<br>
 展示会出展用Androidアプリケーション制作<br>
 https://www.youtube.com/watch?v=_MRNMpCfhSA&t=23s<br>
 空中ディスプレイ向けコンテンツ（途中まで、インタラクション制御）<br>
-展示会出展（XRKaigi,メタとら）
+展示会出展（XRKaigi,メタとら）<br>
 
-公開中３Dモデル（以下よりダウンロード可能）<br>
+公開中３Dモデル（以下よりダウンロード可能 2026/11/16現在）<br>
 https://www.kyocera.co.jp/prdct/telecom/consumer/g07-3d/?_gl=1*9ke4zu*_gcl_au*MjA2MzQ4OTAzNS4xNzkzNzY3MTQ2*_ga*MTE0Mzg2NTg3My4xNzkzNzY3MTQ2*_ga_LFWNFS9NMD*czE3OTM3NjcxNDYkbzEkZzEkdDE3OTM3NjczOTUkajMkbDAkaDA.
 
 
