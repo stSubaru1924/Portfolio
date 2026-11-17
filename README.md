@@ -6,6 +6,16 @@
 Blenderシェーディングによる金属錆表現マテリアル<br>
 <img width="1468" height="914" alt="錆Shader" src="https://github.com/user-attachments/assets/63bd8562-8b79-4751-98aa-6366d684ae66" />
 
+BlenderCycle
+
+
+https://github.com/user-attachments/assets/15a3594a-f392-452d-8efc-1ff605407cbc
+
+
+
+
+
+
 
 携わった案件(VRChat,公開URL)  ※URLアクセスにはVRChatのアカウントが必要です<br>
 
