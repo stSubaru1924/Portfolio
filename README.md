@@ -6,9 +6,7 @@
 Blenderシェーディングによる金属錆表現マテリアル<br>
 <img width="1468" height="914" alt="錆Shader" src="https://github.com/user-attachments/assets/63bd8562-8b79-4751-98aa-6366d684ae66" />
 
-BlenderCycle
-
-
+温泉を題材にしたらいてぃぐ　BlenderCycle環境<br>
 https://github.com/user-attachments/assets/15a3594a-f392-452d-8efc-1ff605407cbc
 
 
