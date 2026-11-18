@@ -1,4 +1,4 @@
-# Portfolio
+<img width="1920" height="1080" alt="VRChat_2026-11-18_19-52-22 615_1920x1080" src="https://github.com/user-attachments/assets/b9f42fd6-2d0f-48b2-b1f7-c9d6234674c2" /># Portfolio
 ポーロフォリオ用に過去携わった案件内容、および趣味制作物を配置する場所
 
 趣味制作物<br>
@@ -21,9 +21,13 @@ https://vrchat.com/home/world/wrld_11bf825d-8764-434e-9a79-f283be8c8921/info
 <img width="512" alt="VRChat_2026-11-18_19-44-17 428_1920x1080" src="https://github.com/user-attachments/assets/b351ee97-9836-4eeb-8c00-cf1bfb870c07" />
 
 
-Kyocera MobileWorld<br>
+Kyocera Mobile World<br>
 製品3Dモデル3点（リトポロジー,バッテリー交換アニメーション,イベント用アバター調整（リギング、ウェイトペイント）、配布用３Dモデル制作（約4000tri,マテリアル統合（テクスチャのアトラス化など）））<br>
 https://vrchat.com/home/world/wrld_16cda762-4503-4074-ae90-45e8bddaf407/info
+<p>
+  <img width="512" alt="VRChat_2026-11-18_19-51-44 115_1920x1080" src="https://github.com/user-attachments/assets/af55be3f-5e77-4665-8575-7905c2a131b4" />
+  <img width="512" alt="VRChat_2026-11-18_19-52-22 615_1920x1080" src="https://github.com/user-attachments/assets/773e6b5d-1693-461d-9a5c-cd483c0b7612" />
+<\p>
 
 Kyocera FineCeramics World<br>
 製造工程モデル作成（ボールミル）、アニメーション制作（製造工程全体、ボールミルのみ物理シミュレーション利用）、パーティクル作成（焼成炉、連続焼成炉の炎）<br>
@@ -53,7 +57,7 @@ https://vrchat.com/home/world/wrld_cee28aed-ce70-4b65-a25e-73c348fa0fc0/info
 <p>
   <img width="512" alt="VRChat_2026-11-18_19-56-55 122_1920x1080" src="https://github.com/user-attachments/assets/b90b13e5-9027-4dba-b214-d3838d995e1e" />
   <img width="512" alt="VRChat_2026-11-18_19-57-13 863_1920x1080" src="https://github.com/user-attachments/assets/d58be15b-b875-4b95-b04c-4628f0bfc785" />
-</p>p
+</p> 
 
 TorqueWorld10th<br>
 ライティング、最適化、同期制御、製品カスタムギミック作成（UV,テクスチャ、HSVによる色制御）<br>
