@@ -1,5 +1,4 @@
-<img width="1920" height="1080" alt="VRChat_2026-11-18_19-52-22 615_1920x1080" src="https://github.com/user-attachments/assets/b9f42fd6-2d0f-48b2-b1f7-c9d6234674c2" /># Portfolio
-ポーロフォリオ用に過去携わった案件内容、および趣味制作物を配置する場所
+ポートフォリオ用に過去携わった案件内容、および趣味制作物を配置する場所
 
 趣味制作物<br>
 
