@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="VRChat_2026-11-18_19-56-55 122_1920x1080" src="https://github.com/user-attachments/assets/87548b4a-a246-4472-a63c-9824c6e78c32" /><img width="1920" height="1080" alt="EC-sample" src="https://github.com/user-attachments/assets/6e1e4810-83b7-4150-ad05-cdbe931bccf5" />
 # Portfolio
 ポーロフォリオ用に過去携わった案件内容、および趣味制作物を配置する場所
 
