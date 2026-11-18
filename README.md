@@ -50,8 +50,10 @@ https://vrchat.com/home/world/wrld_d9bff37d-ef1b-4345-b134-222c4ce220e3/info
 TorqueWorld by Kyocera with Kawasaki<br>
 製品３Dモデル(コンテンツ展示用高ポリゴンモデル 30000tri、配布用低ポリゴンモデル10000tri)、ライティング（途中まで）、アンケート用システム、アニメーション書き出し（blender→Unity）手法考案、Shader調整、アニメーション制御（Unity（Animator、AnimationEvent、スクリプト制御）、同期制御(パーツ付け替えギミック)）<br>
 https://vrchat.com/home/world/wrld_cee28aed-ce70-4b65-a25e-73c348fa0fc0/info
-<img width="512" alt="VRChat_2026-11-18_19-56-55 122_1920x1080" src="https://github.com/user-attachments/assets/b90b13e5-9027-4dba-b214-d3838d995e1e" />  <img width="5112" alt="VRChat_2026-11-18_19-57-13 863_1920x1080" src="https://github.com/user-attachments/assets/d58be15b-b875-4b95-b04c-4628f0bfc785" />
-
+<p>
+  <img width="512" alt="VRChat_2026-11-18_19-56-55 122_1920x1080" src="https://github.com/user-attachments/assets/b90b13e5-9027-4dba-b214-d3838d995e1e" />
+  <img width="512" alt="VRChat_2026-11-18_19-57-13 863_1920x1080" src="https://github.com/user-attachments/assets/d58be15b-b875-4b95-b04c-4628f0bfc785" />
+</p>p
 
 TorqueWorld10th<br>
 ライティング、最適化、同期制御、製品カスタムギミック作成（UV,テクスチャ、HSVによる色制御）<br>
