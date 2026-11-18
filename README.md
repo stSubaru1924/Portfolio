@@ -9,7 +9,8 @@ Blenderシェーディングによる金属錆表現マテリアル<br>
 水面、岩のShader、タオルのファー表現は自作（ジオメトリノード、シェーディング）<br>
 https://github.com/user-attachments/assets/15a3594a-f392-452d-8efc-1ff605407cbc
 
-
+MetaQuest3s向けスタンドアロンデモ（屈折表現Shader）<br>
+https://github.com/stSubaru1924/MetaQuestURPApp
 
 携わった案件(VRChat,公開URL)  ※URLアクセスにはVRChatのアカウントが必要です<br>
 
