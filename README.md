@@ -6,12 +6,9 @@
 Blenderシェーディングによる金属錆表現マテリアル<br>
 <img width="1468" height="914" alt="錆Shader" src="https://github.com/user-attachments/assets/63bd8562-8b79-4751-98aa-6366d684ae66" />
 
-温泉を題材にしたライティング　BlenderCycle環境<br>
+温泉を題材にしたライティング　Blender Cycle環境<br>
+水面、岩のShader、タオルのファー表現は自作（ジオメトリノード、シェーディング）<br>
 https://github.com/user-attachments/assets/15a3594a-f392-452d-8efc-1ff605407cbc
-
-
-
-
 
 
 
@@ -21,7 +18,7 @@ Kyocera Laser World<br>
 展示製品5点,Shader改造（ライトシャフトが壁を貫通しなくする）
 保守（Cyantriggerのサポート終了に伴うUdonSharpへの切り替え、容量超過に対するテクスチャ圧縮、TerrainのMesh化）<br>
 https://vrchat.com/home/world/wrld_11bf825d-8764-434e-9a79-f283be8c8921/info
-<img width="1920" height="1080" alt="VRChat_2026-11-18_19-44-17 428_1920x1080" src="https://github.com/user-attachments/assets/b351ee97-9836-4eeb-8c00-cf1bfb870c07" />
+<img width="1024" alt="VRChat_2026-11-18_19-44-17 428_1920x1080" src="https://github.com/user-attachments/assets/b351ee97-9836-4eeb-8c00-cf1bfb870c07" />
 
 
 Kyocera MobileWorld<br>
