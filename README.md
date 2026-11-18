@@ -4,7 +4,7 @@
 趣味制作物<br>
 
 Blenderシェーディングによる金属錆表現マテリアル<br>
-<img width="600" alt="錆Shader" src="https://github.com/user-attachments/assets/63bd8562-8b79-4751-98aa-6366d684ae66" />
+<img width="1024" alt="錆Shader" src="https://github.com/user-attachments/assets/63bd8562-8b79-4751-98aa-6366d684ae66" />
 
 温泉を題材にしたライティング　Blender Cycle環境<br>
 水面、岩のShader、タオルのファー表現は自作（ジオメトリノード、シェーディング）<br>
@@ -18,7 +18,7 @@ Kyocera Laser World<br>
 展示製品5点,Shader改造（ライトシャフトが壁を貫通しなくする）
 保守（Cyantriggerのサポート終了に伴うUdonSharpへの切り替え、容量超過に対するテクスチャ圧縮、TerrainのMesh化）<br>
 https://vrchat.com/home/world/wrld_11bf825d-8764-434e-9a79-f283be8c8921/info
-<img width="1024" alt="VRChat_2026-11-18_19-44-17 428_1920x1080" src="https://github.com/user-attachments/assets/b351ee97-9836-4eeb-8c00-cf1bfb870c07" />
+<img width="512" alt="VRChat_2026-11-18_19-44-17 428_1920x1080" src="https://github.com/user-attachments/assets/b351ee97-9836-4eeb-8c00-cf1bfb870c07" />
 
 
 Kyocera MobileWorld<br>
@@ -45,7 +45,7 @@ https://vrchat.com/home/world/wrld_637b4753-bf69-4f17-9bad-ab8ac2760c7f/info
 Manufacturing World -ElectricComponent<br>
 要件定義（ヒアリング、展示案作成、プロトタイプ作成、発注用資料制作）、製造工程３Dモデル、製造工程アニメーション（プロトタイプ）、デバッグ等<br>
 https://vrchat.com/home/world/wrld_d9bff37d-ef1b-4345-b134-222c4ce220e3/info
-<img width="1920" height="1080" alt="EC-sample" src="https://github.com/user-attachments/assets/34b64380-46a9-4b41-a35a-b560a5da4107" />
+<img width="1024" alt="EC-sample" src="https://github.com/user-attachments/assets/34b64380-46a9-4b41-a35a-b560a5da4107" />
 
 TorqueWorld by Kyocera with Kawasaki<br>
 製品３Dモデル(コンテンツ展示用高ポリゴンモデル 30000tri、配布用低ポリゴンモデル10000tri)、ライティング（途中まで）、アンケート用システム、アニメーション書き出し（blender→Unity）手法考案、Shader調整、アニメーション制御（Unity（Animator、AnimationEvent、スクリプト制御）、同期制御(パーツ付け替えギミック)）<br>
