@@ -14,14 +14,15 @@ https://github.com/user-attachments/assets/15a3594a-f392-452d-8efc-1ff605407cbc
 携わった案件(VRChat,公開URL)  ※URLアクセスにはVRChatのアカウントが必要です<br>
 
 Kyocera Laser World<br>
-展示製品5点,Shader改造（ライトシャフトが壁を貫通しなくする）
+展示製品5点,Shader改造（ライトシャフトが壁を貫通しなくする）<br>
 保守（Cyantriggerのサポート終了に伴うUdonSharpへの切り替え、容量超過に対するテクスチャ圧縮、TerrainのMesh化）<br>
 https://vrchat.com/home/world/wrld_11bf825d-8764-434e-9a79-f283be8c8921/info
 <img width="512" alt="VRChat_2026-11-18_19-44-17 428_1920x1080" src="https://github.com/user-attachments/assets/b351ee97-9836-4eeb-8c00-cf1bfb870c07" />
 
 
 Kyocera Mobile World<br>
-製品3Dモデル3点（リトポロジー,バッテリー交換アニメーション,イベント用アバター調整（リギング、ウェイトペイント）、配布用３Dモデル制作（約4000tri,マテリアル統合（テクスチャのアトラス化など）））<br>
+製品3Dモデル3点（リトポロジー,バッテリー交換アニメーション,配布用３Dモデル制作（約4000tri,マテリアル統合（テクスチャのアトラス化など）,配布終了））<br>
+イベント用アバター調整（リギング、ウェイトペイント）<br>
 https://vrchat.com/home/world/wrld_16cda762-4503-4074-ae90-45e8bddaf407/info
 <p>
   <img width="400" alt="VRChat_2026-11-18_19-51-44 115_1920x1080" src="https://github.com/user-attachments/assets/af55be3f-5e77-4665-8575-7905c2a131b4" />
@@ -54,12 +55,14 @@ https://vrchat.com/home/world/wrld_637b4753-bf69-4f17-9bad-ab8ac2760c7f/info
 Manufacturing World -ElectricComponent<br>
 要件定義（ヒアリング、展示案作成、プロトタイプ作成、発注用資料制作）、製造工程３Dモデル、製造工程アニメーション（プロトタイプ）、デバッグ等<br>
 https://vrchat.com/home/world/wrld_d9bff37d-ef1b-4345-b134-222c4ce220e3/info
+
 <img width="800" alt="EC-sample" src="https://github.com/user-attachments/assets/34b64380-46a9-4b41-a35a-b560a5da4107" />
 
 
 TorqueWorld by Kyocera with Kawasaki<br>
 製品３Dモデル(コンテンツ展示用高ポリゴンモデル 30000tri、配布用低ポリゴンモデル10000tri)、ライティング（途中まで）、アンケート用システム、アニメーション書き出し（blender→Unity）手法考案、Shader調整、アニメーション制御（Unity（Animator、AnimationEvent、スクリプト制御）、同期制御(パーツ付け替えギミック)）<br>
 https://vrchat.com/home/world/wrld_cee28aed-ce70-4b65-a25e-73c348fa0fc0/info
+
 <p>
   <img width="400" alt="VRChat_2026-11-18_19-56-55 122_1920x1080" src="https://github.com/user-attachments/assets/b90b13e5-9027-4dba-b214-d3838d995e1e" />
   <img width="400" alt="VRChat_2026-11-18_19-57-13 863_1920x1080" src="https://github.com/user-attachments/assets/d58be15b-b875-4b95-b04c-4628f0bfc785" />
