@@ -4,7 +4,7 @@
 趣味制作物<br>
 
 Blenderシェーディングによる金属錆表現マテリアル<br>
-<img width="1468" height="914" alt="錆Shader" src="https://github.com/user-attachments/assets/63bd8562-8b79-4751-98aa-6366d684ae66" />
+<img width="600" alt="錆Shader" src="https://github.com/user-attachments/assets/63bd8562-8b79-4751-98aa-6366d684ae66" />
 
 温泉を題材にしたライティング　Blender Cycle環境<br>
 水面、岩のShader、タオルのファー表現は自作（ジオメトリノード、シェーディング）<br>
