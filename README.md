@@ -32,6 +32,7 @@ https://vrchat.com/home/world/wrld_16cda762-4503-4074-ae90-45e8bddaf407/info
 Kyocera FineCeramics World<br>
 製造工程モデル作成（ボールミル）、アニメーション制作（製造工程全体、ボールミルのみ物理シミュレーション利用）、パーティクル作成（焼成炉、連続焼成炉の炎）<br>
 https://vrchat.com/home/world/wrld_a61c5bb6-946a-42ca-a115-3200757aec47/info
+
 https://github.com/user-attachments/assets/82c41244-8e6f-4b1d-babd-52daf7afd02a
 
 
