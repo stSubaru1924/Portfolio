@@ -4,7 +4,7 @@
 趣味制作物<br>
 
 Blenderシェーディングによる金属錆表現マテリアル<br>
-<img width="1024" alt="錆Shader" src="https://github.com/user-attachments/assets/63bd8562-8b79-4751-98aa-6366d684ae66" />
+<img width="800" alt="錆Shader" src="https://github.com/user-attachments/assets/63bd8562-8b79-4751-98aa-6366d684ae66" />
 
 温泉を題材にしたライティング　Blender Cycle環境<br>
 水面、岩のShader、タオルのファー表現は自作（ジオメトリノード、シェーディング）<br>
@@ -25,9 +25,9 @@ Kyocera Mobile World<br>
 製品3Dモデル3点（リトポロジー,バッテリー交換アニメーション,イベント用アバター調整（リギング、ウェイトペイント）、配布用３Dモデル制作（約4000tri,マテリアル統合（テクスチャのアトラス化など）））<br>
 https://vrchat.com/home/world/wrld_16cda762-4503-4074-ae90-45e8bddaf407/info
 <p>
-  <img width="512" alt="VRChat_2026-11-18_19-51-44 115_1920x1080" src="https://github.com/user-attachments/assets/af55be3f-5e77-4665-8575-7905c2a131b4" />
-  <img width="512" alt="VRChat_2026-11-18_19-52-22 615_1920x1080" src="https://github.com/user-attachments/assets/773e6b5d-1693-461d-9a5c-cd483c0b7612" />
-<\p>
+  <img width="400" alt="VRChat_2026-11-18_19-51-44 115_1920x1080" src="https://github.com/user-attachments/assets/af55be3f-5e77-4665-8575-7905c2a131b4" />
+  <img width="400" alt="VRChat_2026-11-18_19-52-22 615_1920x1080" src="https://github.com/user-attachments/assets/773e6b5d-1693-461d-9a5c-cd483c0b7612" />
+</p>
 
 Kyocera FineCeramics World<br>
 製造工程モデル作成（ボールミル）、アニメーション制作（製造工程全体、ボールミルのみ物理シミュレーション利用）、パーティクル作成（焼成炉、連続焼成炉の炎）<br>
@@ -55,8 +55,8 @@ TorqueWorld by Kyocera with Kawasaki<br>
 製品３Dモデル(コンテンツ展示用高ポリゴンモデル 30000tri、配布用低ポリゴンモデル10000tri)、ライティング（途中まで）、アンケート用システム、アニメーション書き出し（blender→Unity）手法考案、Shader調整、アニメーション制御（Unity（Animator、AnimationEvent、スクリプト制御）、同期制御(パーツ付け替えギミック)）<br>
 https://vrchat.com/home/world/wrld_cee28aed-ce70-4b65-a25e-73c348fa0fc0/info
 <p>
-  <img width="512" alt="VRChat_2026-11-18_19-56-55 122_1920x1080" src="https://github.com/user-attachments/assets/b90b13e5-9027-4dba-b214-d3838d995e1e" />
-  <img width="512" alt="VRChat_2026-11-18_19-57-13 863_1920x1080" src="https://github.com/user-attachments/assets/d58be15b-b875-4b95-b04c-4628f0bfc785" />
+  <img width="400" alt="VRChat_2026-11-18_19-56-55 122_1920x1080" src="https://github.com/user-attachments/assets/b90b13e5-9027-4dba-b214-d3838d995e1e" />
+  <img width="400" alt="VRChat_2026-11-18_19-57-13 863_1920x1080" src="https://github.com/user-attachments/assets/d58be15b-b875-4b95-b04c-4628f0bfc785" />
 </p> 
 
 TorqueWorld10th<br>
