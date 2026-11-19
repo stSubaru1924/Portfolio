@@ -1,6 +1,6 @@
 ポートフォリオ用に過去携わった案件内容、および趣味制作物を配置する場所
 
-趣味制作物<br>
+#趣味制作物
 
 Blenderシェーディングによる金属錆表現マテリアル<br>
 <img width="800" alt="錆Shader" src="https://github.com/user-attachments/assets/63bd8562-8b79-4751-98aa-6366d684ae66" />
@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/15a3594a-f392-452d-8efc-1ff605407cbc
 MetaQuest3s向けスタンドアロンデモ（屈折表現Shader）<br>
 https://github.com/stSubaru1924/MetaQuestURPApp
 
-携わった案件(VRChat,公開URL)  ※URLアクセスにはVRChatのアカウントが必要です<br>
+#携わった案件(VRChat,公開URL)  ※URLアクセスにはVRChatのアカウントが必要です<br>
 
 Kyocera Laser World<br>
 展示製品5点,Shader改造（ライトシャフトが壁を貫通しなくする）<br>
