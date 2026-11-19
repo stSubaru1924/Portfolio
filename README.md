@@ -2,14 +2,13 @@
 
 ## 趣味制作物
 
-Blenderシェーディングによる金属錆表現マテリアル<br>
-<img width="800" alt="錆Shader" src="https://github.com/user-attachments/assets/63bd8562-8b79-4751-98aa-6366d684ae66" />
-
-温泉を題材にしたライティング　Blender Cycle環境<br>
+### 温泉を題材にしたライティング　Blender Cycle環境(Shader（HLSL）制作時は以下のようなノードを組んでからコードに落とし込んでいます)<br>
 水面、岩のShader、タオルのファー表現は自作（ジオメトリノード、シェーディング）<br>
-https://github.com/user-attachments/assets/15a3594a-f392-452d-8efc-1ff605407cbc
+<img width="600" alt="温泉" src="https://github.com/user-attachments/assets/70506b04-cb81-4385-b082-0408980b836d" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/0495fb36-4384-4c52-b55d-4586335cedb8" />
 
-MetaQuest3s向けスタンドアロンデモ（屈折表現Shader）<br>
+
+### MetaQuest3s向けスタンドアロンデモ（屈折表現Shader）<br>
 https://github.com/stSubaru1924/MetaQuestURPApp
 
 ## 携わった案件(VRChat,公開URL)  ※URLアクセスにはVRChatのアカウントが必要です<br>
